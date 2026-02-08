@@ -29,17 +29,9 @@ Angel-Electric-Vehicle/
 ├── assets/           # Images and media files
 └── README.md         # Project documentation
 
-🎯 Purpose of the Project
-The main purpose of this project is to:
-Promote awareness about electric vehicles 🚘
-Showcase a modern web design for an EV-related platform
-Demonstrate frontend development skills
-Create a portfolio-ready website
+ScreenShots:-
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9b5e9e20-2d49-46c7-819d-9913f0992f2d" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/3301a154-99ee-46e5-a6f3-d73dcd35bde0" />
 
-🚀 Future Improvements
-Add real-time EV data and models
-Integrate backend functionality
 
-Add booking or enquiry system
 
-Improve animations and interactivity
