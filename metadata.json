@@ -1,0 +1,7 @@
+{
+  "name": "Angel Electric Vehicle - Powered by Angel Marketing",
+  "description": "Your trusted partner for eco-friendly and powerful electric scooters in India. Explore our wide range of EVs, get AI-powered advice, and book your test ride today.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
