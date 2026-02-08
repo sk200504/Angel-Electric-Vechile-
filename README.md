@@ -1,20 +1,45 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+Angel Electric Vehicle Website
+🌿 Overview
+Angel Electric Vehicle is a modern, responsive website designed to showcase the concept and features of electric vehicles. The website focuses on promoting sustainable transportation and eco-friendly mobility solutions through an attractive user interface and informative content.
 
-# Run and deploy your AI Studio app
+This project demonstrates the use of modern web technologies to build a visually appealing and user-friendly platform for electric vehicle awareness and presentation.
 
-This contains everything you need to run your app locally.
+🔗 Live Demo
+ https://angel-electric-vehicle.web.app/
 
-View your app in AI Studio: https://ai.studio/apps/drive/1AWu7KxjB06V9e6nz3xRBulplJrxjaDIe
+✨ Features
+🌍 Clean and modern UI design
+📱 Fully responsive layout (works on mobile, tablet, and desktop)
+⚡ Informative sections about electric vehicles
+🎨 Attractive visuals and smooth design
+🧭 Easy navigation and structured content
 
-## Run Locally
+🛠️ Technologies Used
+HTML5
+CSS3
+JavaScript
+Firebase Hosting
 
-**Prerequisites:**  Node.js
+📂 Project Structure
+Angel-Electric-Vehicle/
+│
+├── index.html        # Main homepage
+├── css/              # Stylesheets
+├── js/               # JavaScript files
+├── assets/           # Images and media files
+└── README.md         # Project documentation
 
+🎯 Purpose of the Project
+The main purpose of this project is to:
+Promote awareness about electric vehicles 🚘
+Showcase a modern web design for an EV-related platform
+Demonstrate frontend development skills
+Create a portfolio-ready website
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+🚀 Future Improvements
+Add real-time EV data and models
+Integrate backend functionality
+
+Add booking or enquiry system
+
+Improve animations and interactivity
