@@ -29,9 +29,7 @@ Angel-Electric-Vehicle/
 ├── assets/           # Images and media files
 └── README.md         # Project documentation
 
-ScreenShots:-
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9b5e9e20-2d49-46c7-819d-9913f0992f2d" />
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/3301a154-99ee-46e5-a6f3-d73dcd35bde0" />
+
 
 
 
